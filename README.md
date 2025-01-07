@@ -48,6 +48,7 @@ TOROT Treebank:
 Eckhoff, H. M., & Berdicevskis, A. (2020). A Diachronic Treebank of Russian Spanning More Than a Millennium. In Proceedings of the 12th Language Resources and Evaluation Conference (LREC 2020) (pp. 5251-5256).
 
 If you wish to cite our work related to this project, please use the following citation:
+
 Nawaz, U., Presti, L. L., Napolitano, M., & Cascia, M. L. (2024, August). Automatic Lemmatization of Old Church Slavonic Language Using A Novel Dictionary-Based Approach. In International Workshop on Document Analysis Systems (pp. 408-421). Cham: Springer Nature Switzerland.
 
 
