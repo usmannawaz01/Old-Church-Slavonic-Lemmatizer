@@ -40,9 +40,11 @@ You can find the dataset on the Syntacticus Project Website. ( https://syntactic
 If you are using any part of this dataset, please cite the following sources:
 
 PROIEL Treebank:
+
 Haug, D. T. T., & Jøhndal, M. L. (2008). Creating a Parallel Treebank of the Old Indo-European Bible Translations. In Proceedings of the Second Workshop on Language Technology for Cultural Heritage Data (LaTeCH 2008) (pp. 27-34). 
 
 TOROT Treebank:
+
 Eckhoff, H. M., & Berdicevskis, A. (2020). A Diachronic Treebank of Russian Spanning More Than a Millennium. In Proceedings of the 12th Language Resources and Evaluation Conference (LREC 2020) (pp. 5251-5256).
 
 If you wish to cite our work related to this project, please use the following citation:
