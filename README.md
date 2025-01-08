@@ -1,23 +1,22 @@
-# heading
-#Old Church Slavonic Lemmatizer#
+# Old Church Slavonic Lemmatizer
 
-Overview
+## Overview
 
 A GUI-based tool for lemmatizing Old Church Slavonic (OCS) texts using a dictionary of word-lemma pairs. Users can input text, view lemmatized results, and explore datasets through 
 an intuitive interface.
 
-Features
+## Features
 
-Text Lemmatization: 
+* Text Lemmatization: 
                    Matches words with their most frequent lemma.
-Word-Lemma Table: 
+* Word-Lemma Table: 
                   Displays word-lemma mappings in a tabular format.
-Dataset Viewer:
+* Dataset Viewer:
                     Browse and view dataset files.
-Interactive GUI: 
+* Interactive GUI: 
                   Built with tkinter for ease of use.
 
-Installation
+## Installation
 Clone the repository:
 git clone https://github.com/usmannawaz01/Old-Church-Slavonic-Lemmatizer.git
 
@@ -25,7 +24,7 @@ Run the app:
 python ocs_lemmatizer.py
 
 
-Usage
+## Usage
 
 Paste OCS text into the input box.
 Click Lemmatize Text to generate lemmatized output.
@@ -48,7 +47,7 @@ TOROT Treebank:
 
 Eckhoff, H. M., & Berdicevskis, A. (2020). A Diachronic Treebank of Russian Spanning More Than a Millennium. In Proceedings of the 12th Language Resources and Evaluation Conference (LREC 2020) (pp. 5251-5256).
 
-If you wish to cite our work related to this project, please use the following citation:
+If you wish to cite our work, please use the following citation:
 
 Nawaz, U., Presti, L. L., Napolitano, M., & Cascia, M. L. (2024, August). Automatic Lemmatization of Old Church Slavonic Language Using A Novel Dictionary-Based Approach. In International Workshop on Document Analysis Systems (pp. 408-421). Cham: Springer Nature Switzerland.
 
