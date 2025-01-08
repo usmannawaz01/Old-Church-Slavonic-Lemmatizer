@@ -32,7 +32,7 @@ View Word-Lemma Table or explore datasets with View Datasets.
 
 
 ## Dataset Attribution
-The Old Church Slavonic dataset used for this project is sourced from the Syntacticus Project, and we have organized the dataset to suit our specific research needs.
+The Old Church Slavonic dataset used for this research is sourced from the Syntacticus Project, and we have organized the dataset to suit our specific research needs.
 This dataset includes the PROIEL Treebank and the TOROT Treebank, both of which provide morphosyntactically annotated tokens from Old Church Slavonic texts.
 
 You can find the dataset on the Syntacticus Project Website. ( https://syntacticus.org/)
