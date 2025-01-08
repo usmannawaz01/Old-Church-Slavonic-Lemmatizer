@@ -101,7 +101,7 @@ def show_datasets(file_paths):
 
     file_listbox.bind("<<ListboxSelect>>", display_file_content)
 
-# GUI Interface
+
 def create_gui(ocs_lemma_dict):
     current_word_lemma_pairs = []
 
