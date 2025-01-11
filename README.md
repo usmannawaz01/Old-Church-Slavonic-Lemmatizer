@@ -24,7 +24,7 @@ The main interface allows users to input Old Church Slavonic (OCS) text, which c
 *The main window where users input the OCS text and press the "Lemmatize Text" button.*
 
 ### Dataset Viewer
-The dataset viewer provides an easy way to browse and explore the dataset files used in the lemmatization process.
+The "view dataset" button provides an easy way to browse and explore the dataset files used in the lemmatization process.
 
 ![Dataset Viewer](interface/Datasetview2.png)
 
@@ -37,7 +37,7 @@ Users can select any part of the text, copy it, paste it into the input box, and
 
 
 ### Word-Lemma Table
-The Word-Lemma Table displays the mappings between words and their corresponding lemmas in a tabular format.
+The "Show Word-Lemma Table" button displays the mappings between words and their corresponding lemmas in a tabular format.
 
 ![Word Lemma Table](interface/table.png)
 
