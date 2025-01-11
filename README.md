@@ -19,7 +19,7 @@ an intuitive interface.
 ### Main Interface
 The main interface allows users to input Old Church Slavonic (OCS) text, which can then be lemmatized by pressing the "Lemmatize" button.
 
-![Main Interface](images/main interface.png)
+![Main Interface](images/interface.png)
 *The main window where users input the OCS text and press the "Lemmatize" button.*
 
 
