@@ -26,13 +26,13 @@ The main interface allows users to input Old Church Slavonic (OCS) text, which c
 ### Dataset Viewer
 The dataset viewer provides an easy way to browse and explore the dataset files used in the lemmatization process.
 
-![Dataset Viewer](interface/datasetview1.png)
+![Dataset Viewer](interface/Datasetview2.png)
 *The dataset viewer window displaying available datasets and words where use can copy anypart of the avliable text.*
 
 ### Text Selection and Lemmatization
 Users can select any part of the text, copy it, paste it into the input box, and press the "Lemmatize" button to generate the lemmatized output.
 
-![Text Selection and Lemmatization](interface/Datasetview2.png)
+![Text Selection and Lemmatization](interface/ouput.png)
 
 *The process of selecting, copying, and pasting text for lemmatization.*
 
