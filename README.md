@@ -8,11 +8,11 @@ an intuitive interface.
 ## Features
 
 * Text Lemmatization: 
-                  * Matches words with their most frequent lemma.*
+                   *Matches words with their most frequent lemma.*
 * Word-Lemma Table: 
                   *Displays word-lemma mappings in a tabular format.*
 * Dataset Viewer:
-                   * Browse and view dataset files.*
+                   *Browse and view dataset files.*
 * Interactive GUI: 
                   *Built with tkinter for ease of use.*
 
