@@ -24,11 +24,11 @@ The main interface allows users to input Old Church Slavonic (OCS) text, which c
 *The main window where users input the OCS text and press the "Lemmatize Text" button.*
 
 ### Dataset Viewer
-The "view dataset" button provides an easy way to browse and explore the dataset files used in the lemmatization process.
+The "view datasets" button provides an easy way to browse and explore the dataset files used in the lemmatization process.
 
 ![Dataset Viewer](interface/Datasetview2.png)
 
-*The dataset viewer window displaying available datasets and words where use can copy anypart of the avliable text.*
+*The dataset viewer window displaying available datasets and words where user can copy any part of the avliable text.*
 
 ### Text Selection and Lemmatization
 Users can select any part of the text, copy it, paste it into the input box, and press the "Lemmatize Text" button to generate the lemmatized output.
@@ -45,7 +45,7 @@ The "Show Word-Lemma Table" button displays the mappings between words and their
 
 
 ### Key Results:
- **High Accuracy of Lemmatization:** The tool achieves more than 94% average accuracy in lemmatizing OCS texts by utilizing a comprehensive dictionary of word-lemma pairs. This ensures accurate and reliable lemmatization for a wide range of OCS vocabulary. We achieved this performance on a 5-fold cross-validation, and we are working to enhance its efficiency and robustness on unseen datasets, which can be particularly useful for annotating new datasets.
+ **High Accuracy of Lemmatization:** The tool achieves more than 94% average accuracy in lemmatizing OCS texts by utilizing a comprehensive dictionary of word-lemma pairs. This ensures accurate and reliable lemmatization for a wide range of OCS vocabulary. We achieved this performance on a 5-fold cross-validation.
    
 
  **Scalable Solution for Ancient Texts:** The tool is capable of processing large volumes of OCS text and can be easily adapted to other ancient languages with similar datasets. By utilizing a dictionary of word-lemma pairs in the same format, researchers can apply this tool to texts in different ancient languages with minimal adjustments.
@@ -58,12 +58,6 @@ git clone https://github.com/usmannawaz01/Old-Church-Slavonic-Lemmatizer.git
 Run the app:
 python ocs_lemmatizer.py
 
-
-## Usage
-
-Paste OCS text into the input box.
-Click Lemmatize Text to generate lemmatized output.
-View Word-Lemma Table or explore datasets with View Datasets.
 
 
 ## Dataset Attribution
