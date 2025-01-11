@@ -17,24 +17,24 @@ an intuitive interface.
                   Built with tkinter for ease of use.
 
 ### Main Interface
-The main interface allows users to input Old Church Slavonic (OCS) text, which can then be lemmatized by pressing the "Lemmatize" button.
+The main interface allows users to input Old Church Slavonic (OCS) text, which can then be lemmatized by pressing the "Lemmatize Text" button.
 
 ![Main Interface](interface/interface.png)
 
-*The main window where users input the OCS text and press the "Lemmatize" button.*
+*The main window where users input the OCS text and press the "Lemmatize Text" button.*
 
 ### Dataset Viewer
 The dataset viewer provides an easy way to browse and explore the dataset files used in the lemmatization process.
 
 ![Dataset Viewer](interface/Datasetview2.png)
+
 *The dataset viewer window displaying available datasets and words where use can copy anypart of the avliable text.*
 
 ### Text Selection and Lemmatization
-Users can select any part of the text, copy it, paste it into the input box, and press the "Lemmatize" button to generate the lemmatized output.
+Users can select any part of the text, copy it, paste it into the input box, and press the "Lemmatize Text" button to generate the lemmatized output.
 
 ![Text Selection and Lemmatization](interface/ouput.png)
 
-*The process of selecting, copying, and pasting text for lemmatization.*
 
 ### Word-Lemma Table
 The Word-Lemma Table displays the mappings between words and their corresponding lemmas in a tabular format.
