@@ -28,7 +28,7 @@ The "view datasets" button provides an easy way to browse and explore the datase
 
 ![Dataset Viewer](interface/Datasetview2.png)
 
-*The dataset viewer window displaying available datasets and words where user can copy any part of the avliable text.*
+*The dataset viewer window displaying available datasets and words where user can copy any part of the available text.*
 
 ### Text Selection and Lemmatization
 Users can select any part of the text, copy it, paste it into the input box, and press the "Lemmatize Text" button to generate the lemmatized output.
