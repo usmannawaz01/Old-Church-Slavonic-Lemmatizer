@@ -8,13 +8,13 @@ an intuitive interface.
 ## Features
 
 * Text Lemmatization: 
-                   Matches words with their most frequent lemma.
+                  * Matches words with their most frequent lemma.*
 * Word-Lemma Table: 
-                  Displays word-lemma mappings in a tabular format.
+                  *Displays word-lemma mappings in a tabular format.*
 * Dataset Viewer:
-                    Browse and view dataset files.
+                   * Browse and view dataset files.*
 * Interactive GUI: 
-                  Built with tkinter for ease of use.
+                  *Built with tkinter for ease of use.*
 
 ### Main Interface
 The main interface allows users to input Old Church Slavonic (OCS) text, which can then be lemmatized by pressing the "Lemmatize Text" button.
