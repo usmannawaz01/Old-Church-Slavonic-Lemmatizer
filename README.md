@@ -16,6 +16,14 @@ an intuitive interface.
 * Interactive GUI: 
                   Built with tkinter for ease of use.
 
+### Main Interface
+The main interface allows users to input Old Church Slavonic (OCS) text, which can then be lemmatized by pressing the "Lemmatize" button.
+
+![Main Interface](images/main interface.png)
+*The main window where users input the OCS text and press the "Lemmatize" button.*
+
+
+
 ## Installation
 Clone the repository:
 git clone https://github.com/usmannawaz01/Old-Church-Slavonic-Lemmatizer.git
