@@ -51,13 +51,6 @@ The "Show Word-Lemma Table" button displays the mappings between words and their
  **Scalable Solution for Ancient Texts:** The tool is capable of processing large volumes of OCS text and can be easily adapted to other ancient languages with similar datasets. By utilizing a dictionary of word-lemma pairs in the same format, researchers can apply this tool to texts in different ancient languages with minimal adjustments.
 
 
-Key Results:
-High Accuracy of Lemmatization: The tool achieves more than 94% average accuracy in lemmatizing Old Church Slavonic (OCS) texts, validated through 5-fold cross-validation. This performance demonstrates the tool's effectiveness in handling a wide range of OCS vocabulary.
-
-Scalable and Adaptable Solution for Ancient Texts: The tool is capable of processing large volumes of OCS text and can be easily adapted to other ancient languages with similar datasets. By utilizing a dictionary of word-lemma pairs in the same format, researchers can apply this tool to texts in different ancient languages with minimal adjustments.
-
-
-
 ## Installation
 Clone the repository:
 git clone https://github.com/usmannawaz01/Old-Church-Slavonic-Lemmatizer.git
