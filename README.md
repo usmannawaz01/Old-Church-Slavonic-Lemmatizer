@@ -7,7 +7,7 @@ an intuitive interface.
 
 ## Features
 
-####* Text Lemmatization: 
+#### Text Lemmatization: 
                    *Matches words with their most frequent lemma.*
 * Word-Lemma Table: 
                   *Displays word-lemma mappings in a tabular format.*
