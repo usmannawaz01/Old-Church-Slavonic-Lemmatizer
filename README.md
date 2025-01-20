@@ -63,7 +63,7 @@ Run the app:
 python ocs_lemmatizer.py
 
 ## Desktop Application
-If you prefer to use the desktop application without installing anything, you can download the executable file for Windows from the link below:
+If you prefer to use the desktop application, you can download the executable file for Windows from the link below:
 
 https://drive.google.com/file/d/1r_LL5hQcqfbXsoh2BS7ucNlUp0Wj05XJ/view?usp=sharing
 
