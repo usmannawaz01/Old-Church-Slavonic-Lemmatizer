@@ -19,14 +19,14 @@ an intuitive interface.
 ### Main Interface
 The main interface allows users to input Old Church Slavonic (OCS) text, which can then be lemmatized by pressing the "Lemmatize Text" button.
 
-![Main Interface](interface/interface.PNG)
+![Main Interface](interface/interface.png)
 
 *The main window where users input the OCS text and press the "Lemmatize Text" button.*
 
 ### Dataset Viewer
 The "view datasets" button provides an easy way to browse and explore the dataset files used in the lemmatization process.
 
-![Dataset Viewer](interface/tab.png)
+![Dataset Viewer](interface/tab.PNG)
 
 *The dataset viewer window displaying available datasets and words where user can copy any part of the available text.*
 
