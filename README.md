@@ -50,6 +50,9 @@ The "Show Word-Lemma Table" button displays the mappings between words and their
 
  **Scalable Solution for Ancient Texts:** The tool is capable of processing large volumes of OCS text and can be easily adapted to other ancient languages with similar datasets. By utilizing a dictionary of word-lemma pairs in the same format, researchers can apply this tool to texts in different ancient languages with minimal adjustments.
 
+##Environment and Setup
+ **Recommended Python Version** : Python 3.8+
+ **Recommended Libraries** : tkinter, collections, scrolledtext, filedialog, messagebox
 
 ## Installation
 Clone the repository:
