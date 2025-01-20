@@ -62,7 +62,10 @@ git clone https://github.com/usmannawaz01/Old-Church-Slavonic-Lemmatizer.git
 Run the app:
 python ocs_lemmatizer.py
 
+## Desktop Application
+If you prefer to use the desktop application without installing anything, you can download the executable file for Windows from the link below:
 
+https://drive.google.com/file/d/1r_LL5hQcqfbXsoh2BS7ucNlUp0Wj05XJ/view?usp=sharing
 
 ## Dataset Attribution
 The Old Church Slavonic dataset used for this research is sourced from the Syntacticus Project, and we have organized the dataset to suit our specific research needs.
