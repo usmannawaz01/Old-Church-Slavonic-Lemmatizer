@@ -52,6 +52,7 @@ The "Show Word-Lemma Table" button displays the mappings between words and their
 
 ## Environment and Setup
  **Recommended Python Version** : Python 3.8+
+ 
  **Recommended Libraries** : tkinter, collections, scrolledtext, filedialog, messagebox
 
 ## Installation
