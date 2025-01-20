@@ -26,7 +26,7 @@ The main interface allows users to input Old Church Slavonic (OCS) text, which c
 ### Dataset Viewer
 The "view datasets" button provides an easy way to browse and explore the dataset files used in the lemmatization process.
 
-![Dataset Viewer](interface/Datasetview2.png)
+![Dataset Viewer](interface/tab.png)
 
 *The dataset viewer window displaying available datasets and words where user can copy any part of the available text.*
 
