@@ -45,8 +45,10 @@ The "Show Word-Lemma Table" button displays the mappings between words and their
 
 
 ### Key Results:
- **High Accuracy of Lemmatization:** The tool achieves more than 94% average accuracy in lemmatizing OCS texts by utilizing a comprehensive dictionary of word-lemma pairs. This ensures accurate and reliable lemmatization for a wide range of OCS vocabulary. We achieved this performance on a 5-fold cross-validation.
+ **High Accuracy of Lemmatization:** The tool achieves 95% average cosine similarity score in lemmatizing OCS texts by utilizing a comprehensive dictionary of word-lemma pairs. This ensures accurate and reliable lemmatization for a wide range of OCS vocabulary. We achieved this performance on a 5-fold cross-validation.
    
+
+
 
  **Scalable Solution for Ancient Texts:** The tool is capable of processing large volumes of OCS text and can be easily adapted to other ancient languages with similar datasets. By utilizing a dictionary of word-lemma pairs in the same format, researchers can apply this tool to texts in different ancient languages with minimal adjustments.
 
