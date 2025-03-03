@@ -67,7 +67,7 @@ python ocs_lemmatizer.py
 ## Desktop Application
 If you prefer to use the desktop application, you can download the executable file for Windows from the link below:
 
-https://drive.google.com/file/d/1JUVM2WuS-L-1Asjd1a2c3wl-qlGaZosv/view?usp=sharing
+https://drive.google.com/file/d/11VHO3niPM13lsZJar3MirkQkBv5rsFdO/view?usp=sharing
 
 ## Dataset Attribution
 The Old Church Slavonic dataset used for this research is sourced from the Syntacticus Project, and we have organized the dataset to suit our specific research needs.
